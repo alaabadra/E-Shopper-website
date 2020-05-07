@@ -27,6 +27,9 @@ Which is :
        but can not make any functionlaty in page view details (add to cart , add to fav , add review)
     - contact , but  must be register in website
 So will register in website to make these functionalty and more .
+
+you can see this video to see more :
+http://www.mediafire.com/file/g0ta26nobw2ogii/1._Show_Pages_without_User_Account.mp4/file
 ----------------------------------------------------------------
 
 **Pages when register**
@@ -48,7 +51,10 @@ now became num 2 in navbar as you seen
 11. edit your password
 12. reset the password ,  it redirects into login direct and sends a msg into this email, i will check it to enter in the password that it send in email
 13. can share this website in another websites like : facbook , email and so on
-14.  check pincode in page view Details
+14.  check pincode in page view Details .
+
+you can see this video to see more :
+http://www.mediafire.com/file/rvtt1og6l8vix91/User_Account.mp4/file
 ----------------------------------------------------------------
 
 **Pages in Admin Account**
@@ -78,6 +84,10 @@ such as :
     But  Admin  can do all things 
 
 
+
+you can see this video to see more :
+
+http://www.mediafire.com/file/lnrpi566mfxvbj8/Admin_accont.mp4/file
 ## Developed by :
 - **[Eng-Alaa Badra](https://www.linkedin.com/in/eng-alaa-badra/)**
 
