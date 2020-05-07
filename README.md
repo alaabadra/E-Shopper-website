@@ -1,5 +1,5 @@
 
-<p align="center"><img src="public/logo.png" width="400"></p>
+<p align="center"><img src="public/logo.PNG" width="400"></p>
 
 
 ## About E-shopper
