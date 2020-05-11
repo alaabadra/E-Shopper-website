@@ -29,7 +29,7 @@ Which is :
 So will register in website to make these functionalty and more .
 
 you can see this video to see more :
-http://www.mediafire.com/file/g0ta26nobw2ogii/1._Show_Pages_without_User_Account.mp4/file
+https://drive.google.com/open?id=1rNW403M7_uFlFQTcVniLOFjGNSPrB2kK
 ----------------------------------------------------------------
 
 **Pages when register**
@@ -54,7 +54,7 @@ now became num 2 in navbar as you seen
 14.  check pincode in page view Details .
 
 you can see this video to see more :
-http://www.mediafire.com/file/rvtt1og6l8vix91/User_Account.mp4/file
+https://drive.google.com/file/d/1fnUNlJ-A4eR3LhwHL8CpkdjW4gCi2zyE/view
 ----------------------------------------------------------------
 
 **Pages in Admin Account**
